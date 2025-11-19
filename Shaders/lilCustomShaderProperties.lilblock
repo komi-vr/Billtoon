@@ -1,0 +1,8 @@
+
+        //----------------------------------------------------------------------------------------------------------------------
+        // Custom Properties
+        //_CustomVariable ("Custom Variable", Float) = 0
+        //[lilVec3Float] _CustomBillboardRotation4   ("Rotation|Amari", Vector) = (0.0,0.0,0.0)
+        [lilEnum] _BillboardMode      ("Billboard Mode|Off|All|Y", Int) = 0    // 0: Off, 1: Full, 2: Y-Axis
+        [lilVec3] _BillboardRotation  ("Billboard Rotation (deg)", Vector) = (0,0,0,0)
+        [lilVec3] _BillboardScale     ("Billboard Scale", Vector) = (1,1,1,0)
