@@ -1,6 +1,6 @@
 # Billtoon (lilToon Billboard Custom Shader)
 
-This is a custom shader for [lilToon] that adds billboard features.
+This is a custom shader for [lilToon](https://github.com/lilxyzw/lilToon.git) that adds billboard features.
 
 - Per-material billboard mode:
   - Off
@@ -10,3 +10,5 @@ This is a custom shader for [lilToon] that adds billboard features.
 - Scale control per-axis
 
 If you want to use this shader, just place it in Unity's Assets.
+
+Used ChatGPT.
