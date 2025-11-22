@@ -11,4 +11,6 @@ This is a custom shader for [lilToon](https://github.com/lilxyzw/lilToon.git) th
 
 If you want to use this shader, just place it in Unity's Assets.
 
+If Anchor Override is set using Modular Avatar or other tools, the appearance will be strange.
+
 Used ChatGPT.
